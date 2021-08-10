@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">weatherForecast</string>
+    <string name="title">%1$s</string>
+    <string name="temperature">Temperature: %1$s°C</string>
+    <string name="windSpeed">Speed wind: %1$sм/с</string>
+    <string name="humidity">humidity: %1$s%%</string>
+    <string name="country">%1$s</string>
+
+</resources>
